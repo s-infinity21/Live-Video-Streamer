@@ -1,5 +1,5 @@
-# Live-Video-Streamer-Using-OpenCV-Flask
-A Flask Web-App to stream live from local webcam or CCTV (RTSP link)
+# Live-Video-Streamer
+Using OpenCV and Flask. A Flask Web-App to stream live from local webcam or CCTV (RTSP link)
 
 ## For Built-in Webcam of Laptop
 
